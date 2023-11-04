@@ -1,0 +1,123 @@
+{
+    "status": "ok",
+    "totalResults": 9,
+    "articles": [
+        {
+            "source": {
+                "id": "lequipe",
+                "name": "L'equipe"
+            },
+            "author": "L'EQUIPE",
+            "title": "Le flash sports du 21 juillet",
+            "description": "Retrouvez l'essentiel de l'actualité sportive dans notre flash sports quotidien.",
+            "url": "https://www.lequipe.fr/Tous-sports/Actualites/Le-flash-sports-du-21-juillet/1344653",
+            "urlToImage": "https://medias.lequipe.fr/img-photo-jpg/flash-sports-l-equipe/1500000001664989/0:0,1995:1330-640-427-75/8304c.jpg",
+            "publishedAt": "2022-07-20T21:52:00+00:00",
+            "content": "La victoire de Tadej Pogacar lors de la 17e étape du Tour de France, le sacre d'Enzo Lefort au fleuret lors des championnats du monde d'escrime, le succès du PSG (2-1) face au Kawasaki Frontale et l'… [+145 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news-ca",
+                "name": "Google News (Canada)"
+            },
+            "author": null,
+            "title": "Support for mask mandates, vaccine passports plunge among Canadians - CityNews Toronto",
+            "description": "<ol><li>Support for mask mandates, vaccine passports plunge among Canadians  CityNews Toronto\r\n</li><li>New polls finds majority of British Columbians support return to mask mandate  Global News\r\n</li><li>COVID-19: Younger Canadian men less likely to take pan…",
+            "url": "https://news.google.com/__i/rss/rd/articles/CBMiVmh0dHBzOi8vdG9yb250by5jaXR5bmV3cy5jYS8yMDIyLzA3LzIwL2NhbmFkYS1tYXNrLW1hbmRhdGVzLXZhY2NpbmUtcGFzc3BvcnRzLWNvdmlkMTkv0gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2022-07-20T20:31:12+00:00",
+            "content": "<ol><li>Support for mask mandates, vaccine passports plunge among Canadians  CityNews Toronto\r\n</li><li>New polls finds majority of British Columbians support return to mask mandate  Global News\r\n</l… [+372 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-sports",
+                "name": "Fox Sports"
+            },
+            "author": "FOX Sports",
+            "title": "Is it Sports? Aaron Rodgers, Zach Wilson, NFL QBs causing offseason drama",
+            "description": "What have the NFL's biggest names been up to in their offseason? Quite a lot, in fact. But is it Sports? Charlotte Wilder decides.",
+            "url": "http://www.foxsports.com/stories/nfl/is-it-sports-aaron-rodgers-zach-wilson-nfl-qbs-causing-offseason-drama",
+            "urlToImage": "https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2022/07/1408/814/07.20.22_Is-it-sports_A-look-at-QB-gossip_16x9.jpg?ve=1&tl=1",
+            "publishedAt": "2022-07-20T19:54:46Z",
+            "content": "By Charlotte WilderFOX Sports Columnist\r\nWhen you think of sports, you probably think of a game played on a field or a court. You think of athletes and coaches, season tickets and hot dogs, the elati… [+10205 chars]"
+        },
+        {
+            "source": {
+                "id": "engadget",
+                "name": "Engadget"
+            },
+            "author": "https://www.engadget.com/about/editors/jon-fingas",
+            "title": "Apple's latest iOS and macOS updates offer more control over live sports | Engadget",
+            "description": "Apple has released iOS and macOS updates that give you more playback control for live sports..",
+            "url": "https://www.engadget.com/apple-ios-15-6-macos-12-5-update-191325066.html",
+            "urlToImage": "https://s.yimg.com/os/creatr-uploaded-images/2022-06/dca0bd00-e1b3-11ec-bb5f-63a45f7d6d63",
+            "publishedAt": "2022-07-20T19:22:21.603231Z",
+            "content": "Apple may be several weeks away from releasing iOS 16, macOS Ventura and other major updates, but that isn't precluding one last hurrah for current-generation software. The company has released iOS 1… [+1018 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Owen S. Good",
+            "title": "FIFA 23 brings cross-play, women’s club soccer, PC parity with PS5 and Xbox",
+            "description": "FIFA 23, the last EA Sports game to be published with FIFA branding, will launch this fall for PlayStation 4, PS5, Xbox One and Series X, and Windows PC. It will feature both the World Cup and Women’s World Cup, women’s professional clubs, and HyperMotion 2 g…",
+            "url": "https://www.polygon.com/23271025/fifa-23-preview-trailer-gameplay-hypermotion-womens-football",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/mbjQslGJzrQT_xqVzPBLIrOw-Rg=/0x38:1920x1043/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23888358/image002.jpg",
+            "publishedAt": "2022-07-20T15:00:00Z",
+            "content": "EA Sports and FIFA are breaking up after this year, but developers at EA Vancouver vow fans will get a passionate last dance in FIFA 23, which the studio is billing as the biggest soccer game its eve… [+2761 chars]"
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "⭐ &#x27;The Champions&#x27; Season Finale ⭐",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/244201-the-champions-season-6-episode-3",
+            "urlToImage": null,
+            "publishedAt": "2022-06-15T17:37:27.3831502Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "bleacher-report",
+                "name": "Bleacher Report"
+            },
+            "author": null,
+            "title": "Live Bradley Beal Interview ",
+            "description": "Fan easier, fan faster and fan better with Bleacher Report. Keep up with the latest storylines, expert analysis, highlights and scores for all your favorite sports.",
+            "url": "https://bleacherreport.com/videos/244886-taylor-rooks-x-bradley-beal",
+            "urlToImage": null,
+            "publishedAt": "2022-06-15T17:22:35.1827416Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Daily Briefing",
+            "description": "The day's top stories, from sports to movies to politics to world events.",
+            "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+            "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+            "publishedAt": "2021-08-15T15:35:07+00:00",
+            "content": "The day's top stories, from sports to movies to politics to world events."
+        },
+        {
+            "source": {
+                "id": "the-washington-times",
+                "name": "The Washington Times"
+            },
+            "author": "The Washington Times http://www.washingtontimes.com",
+            "title": "Latest Quizzes",
+            "description": "Take a break from the hard news of the day and enjoy a quiz on entertainment, sports, history and politics only from The Washington Times.",
+            "url": "https://www.washingtontimes.com/quiz/",
+            "urlToImage": null,
+            "publishedAt": "2021-02-10T03:52:37.2719772Z",
+            "content": "Featured Quizzes\r\nAttention all William Shakespeare experts. Pinpoint the prose's origin plucked from one of his many famous plays in this multiple-choice challenge.\r\n Shares \r\nName these legendary c… [+32652 chars]"
+        }
+    ]
+}
